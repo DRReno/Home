@@ -1,6 +1,8 @@
 # Home
 The simplest way to clean out your backpack.
 
+Just barely getting started with this process. Be patient.
+
 Work in progress. Hope to release without bugs by September 2018, at the latest.
 
 Puts your items away into chests that have an item of the same name. If there are duplicates, it will keep them in your backpack, and show you in what chests the duplicates are, so you can re-organize without havin to remember where the item may be. This is especially important the farther you progress in the game, and you have many more chests than in the beginning. It will also keep items that are in no chest, which highlights new items that you havn't encountered before.
